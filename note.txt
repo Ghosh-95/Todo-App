@@ -1,0 +1,8 @@
+ABOUT THE APP:
+- This is a to do app that can enable you to list any task you want.
+- The task will be stored in localStorage, so refreshing the page doesn't let you delete all the task.😅
+- User can edit the tasks, event after adding was complete
+- User can track their task. e.g completed task, remaining task and total task.
+- User can mark a task as completed.
+- User can delete a task(both completed and added).
+** The design was made by Evanto tut+ channel.
